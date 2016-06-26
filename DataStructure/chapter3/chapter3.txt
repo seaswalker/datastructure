@@ -1,0 +1,7 @@
+﻿D:\C\DataStructure\DataStructure:
+统计结果如下：
+  共统计C源文件4个:
+    注释62行
+    空行39行
+    代码319行
+    总计420行
